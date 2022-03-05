@@ -1,9 +1,0 @@
- mkdir server
- npm init --yes 
- npm i express mongoose dotenv nodemon
- npm i jsonwebtoken joi joi-password-complexity
- npm init -y : all is set ready to create package.json
-
-
-
- mongoDb atlas server connection link : mongodb+srv://Vedantaz:<password>@cluster0.xhjbx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
